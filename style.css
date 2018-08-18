@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    background: url("assets/bckgrnd.png");
+}
+
+.prettymug {
+    border: solid #2c5fa8;
+    max-width: 125px;
+    max-height: 125px;
+    margin: 30px;
+    border-radius: 38px;
+
+}
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    margin: 30px;
+}
+
+nav {
+    margin: 30px;
+}
+
+p {
+    margin: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+footer{
+    background-color: rgba(150, 150, 150, .6)
+}
+
+.arrow{
+    position: relative;
+    top: 5.5px;
+}
+
+.navbutton{
+    position: relative;
+    padding: 15px;
+}
+
+.port{
+    max-height: 125px;
+    max-width: auto;
+    padding: 50px;   
+}
+
+h4{
+    font-size: .6em;
+    text-align: center;
+}
